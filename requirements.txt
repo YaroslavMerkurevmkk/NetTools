@@ -1,0 +1,6 @@
+scapy
+folium
+sqlite3
+re
+subprocess
+requests
